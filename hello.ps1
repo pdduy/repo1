@@ -1,1 +1,1 @@
-Write-Host "Hello! Welcome to powershell!"
+Write-Host "Hello! Welcome to git"
